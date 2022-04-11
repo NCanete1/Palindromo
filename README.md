@@ -1,4 +1,7 @@
 # Palindromo
+-Matias Gonzáles
+-José Huircaleo
+-Nicolás Cañete
 
 Paso 1:
 
